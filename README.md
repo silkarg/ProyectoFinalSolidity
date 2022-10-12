@@ -1,2 +1,2 @@
 # ProyectoFinalSolidity
-Participacion Electora Universitaria 
+Participacion Electoral Universitaria 
